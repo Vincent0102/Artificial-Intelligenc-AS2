@@ -1,6 +1,6 @@
 # RMIT AI - Connect4
 
-![screenshot](https://github.com/Vincent0102/Artificial-Intelligenc-AS2/tree/master/img/game_example-small.gif)
+![screenshot](https://github.com/Vincent0102/Artificial-Intelligenc-AS2/blob/master/img/game_example-small.gif)
 
 ## About The Game
 
