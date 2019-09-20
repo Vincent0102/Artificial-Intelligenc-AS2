@@ -1,4 +1,4 @@
-# RMIT AI - Connect4
+# AI - Connect4
 
 Finished Marks: 14.7/15
 
