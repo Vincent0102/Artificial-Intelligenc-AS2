@@ -1,5 +1,7 @@
 # RMIT AI - Connect4
 
+Finished Marks: 14.7/15
+
 ![screenshot](https://github.com/Vincent0102/Artificial-Intelligenc-AS2/blob/master/img/game_example-small.gif)
 
 ## About The Game
